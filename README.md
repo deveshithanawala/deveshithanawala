@@ -13,6 +13,6 @@ Here are some ideas to get you started: -->
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
 
-![Deveshi's github stats](https://github-readme-stats.vercel.app/api?username=deveshithanawala&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+
 ![Deveshi's github languages](https://github-readme-stats.vercel.app/api/top-langs/?username=deveshithanawala&&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
