@@ -5,4 +5,4 @@
 
 Here are some ideas to get you started: -->
   🔭 I’m currently working at Veryable as a Backend Intern
-  📫 How to reach me: deveshi.m.thanawala@gmail.com
+  📫 Reach out to me : deveshi.m.thanawala@gmail.com
